@@ -55,6 +55,8 @@ public class scr_PlayerControls : MonoBehaviour
             rb.AddForce(new Vector2(-directionalForce * Time.deltaTime, 0), ForceMode2D.Force);
         if (Input.GetKey(KeyCode.D))
             rb.AddForce(new Vector2(directionalForce * Time.deltaTime, 0), ForceMode2D.Force);
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+            Jump();
         
         
     }

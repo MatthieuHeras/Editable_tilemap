@@ -1,24 +1,54 @@
 fileFormatVersion: 2
 guid: 02f612bcf067b96419afda77f72b5a50
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: spr_Dirt 1_0
-    21300002: spr_Dirt 1_1
-    21300004: spr_Dirt 1_2
-    21300006: spr_Dirt 1_3
-    21300008: spr_Dirt 1_4
-    21300010: spr_Dirt 1_5
-    21300012: spr_Dirt 1_6
-    21300014: spr_Dirt 1_7
-    21300016: spr_Dirt 1_8
-    21300018: spr_Dirt 1_9
-    21300020: spr_Dirt 1_10
-    21300022: spr_Dirt 1_11
-    21300024: spr_Dirt 1_12
-    21300026: spr_Dirt 1_13
-    21300028: spr_Dirt 1_14
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: spr_Dirt 1_0
+  - first:
+      213: 21300002
+    second: spr_Dirt 1_1
+  - first:
+      213: 21300004
+    second: spr_Dirt 1_2
+  - first:
+      213: 21300006
+    second: spr_Dirt 1_3
+  - first:
+      213: 21300008
+    second: spr_Dirt 1_4
+  - first:
+      213: 21300010
+    second: spr_Dirt 1_5
+  - first:
+      213: 21300012
+    second: spr_Dirt 1_6
+  - first:
+      213: 21300014
+    second: spr_Dirt 1_7
+  - first:
+      213: 21300016
+    second: spr_Dirt 1_8
+  - first:
+      213: 21300018
+    second: spr_Dirt 1_9
+  - first:
+      213: 21300020
+    second: spr_Dirt 1_10
+  - first:
+      213: 21300022
+    second: spr_Dirt 1_11
+  - first:
+      213: 21300024
+    second: spr_Dirt 1_12
+  - first:
+      213: 21300026
+    second: spr_Dirt 1_13
+  - first:
+      213: 21300028
+    second: spr_Dirt 1_14
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -73,7 +103,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -84,7 +114,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -95,7 +126,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,6 +138,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -125,6 +158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 65ccfbdcf8b3b9644a07eb6bfe62cd5b
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -145,6 +179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a49ed8a17c208144fb3449a16ae48306
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -165,6 +200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9fa3a693ce3492e45b36d538fe610f27
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -185,6 +221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 902d3bfad0e93fc4699398bf9941987c
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -205,6 +242,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b76d1a15790d15a44afe48b99059a9cc
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -225,6 +263,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d0753bc6e1404db49a793885db1a26e1
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -245,6 +284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 363b149e85401ee41aa0c6b8442b6e61
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -265,6 +305,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d87cc9612df32bd4b8e609d303d2f4fd
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -285,6 +326,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae71db069b275b24495a0ed3e207a599
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -305,6 +347,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3f6f3a81cdb89ef49bcdd1d858673f0e
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -325,6 +368,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 79950f5ad99d9ed4bacfe72bbe040aec
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -345,6 +389,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 095e7f18c34f8ad47b3912f9e8d9b356
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -365,6 +410,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2fe38fbc3525488489c1a3464d34b876
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -385,6 +431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6b7cd979a89375742a8afde2637737c9
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -405,6 +452,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2698a27ad15f0db47bc0d3c565efdd42
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -413,10 +461,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5bb700428ad421e44952a50540f00740
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
