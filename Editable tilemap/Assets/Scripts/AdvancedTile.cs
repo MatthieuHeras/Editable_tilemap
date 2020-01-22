@@ -22,7 +22,6 @@ public class AdvancedTile : TileBase
                 if (tilemap.GetTile(newPosition) != null)
                 {
                     tilemap.RefreshTile(newPosition);
-                    Debug.Log(newPosition + "is refreshed");
                 }
             }
         }
